@@ -1,0 +1,2 @@
+Simulation of a factory using multithreading, each worker is on their own thread and handle the widget objects sequentially. 
+The bounded buffer is meant to act as a conveyor belt.
